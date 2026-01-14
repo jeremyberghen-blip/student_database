@@ -1,2 +1,2 @@
-This application is an excercise to demonstrate my grasp of Java up to this point, it is a starting point. It is a database management tool to keep track of students, which classes they are enrolled in, and what their grades are. 
+This application is an excercise to demonstrate my grasp of Java up to this point. It is a database management tool to keep track of students, which classes they are enrolled in, and what their grades are. 
 This project represents how far I've come in my efforts to learn java, and serves as a starting point. I will be pushing more projects in the future, demonstrating future lessons.
